@@ -686,7 +686,7 @@ const Portfolio = () => {
             Kaluri Himabindhu
           </h1>
           <p style={styles.heroSubtitle}>
-            Full Stack Developer & Problem Solver
+            Frontend Developer & Problem Solver
           </p>
           <div style={styles.socialLinks}>
             <a href="mailto:blessykaluri@gmail.com" style={{...styles.socialLink, ...styles.socialLinkBlue}} className="social-link">
