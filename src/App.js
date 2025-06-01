@@ -86,18 +86,6 @@ const Portfolio = () => {
       github: 'https://github.com/Hiomio/Ecommerce_Website/tree/master',
       live : 'https://echo-basket.vercel.app/'
     },
-    {
-      title: 'BlogSphere',
-      tech: 'ReactJS, Redux, NodeJS, MongoDB, ExpressJS, Firebase',
-      period: 'May 2024 – Jun 2024',
-      highlights: [
-        'Developed blog platform using MERN stack with Redux state management',
-        'Firebase authentication for secure content creation',
-        'CRUD functionality with 40% enhanced user interaction'
-      ],
-      github: 'https://github.com/Hiomio/Full_Stack_Blog_App',
-      live : 'https://blog-chi-three-26.vercel.app/'
-    },
       {
     title: 'Trips Travel',
     tech: 'MERN Stack',
@@ -112,7 +100,7 @@ const Portfolio = () => {
   },
   {
     title: 'MovieDB',
-    tech: 'ReactJS, Redux Toolkit, Sass, Firebase, MongoDB, NodeJS, ExpressJS, TMDB API',
+    tech: 'ReactJS, Redux Toolkit, Firebase, MongoDB, NodeJS, ExpressJS, TMDB API',
     period: 'Nov 2024 - Dec 2024',
     highlights: [
       'Developed a full-stack movie streaming platform allowing users to browse, watch trailers, and save movies for later.',
