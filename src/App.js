@@ -729,7 +729,7 @@ const Portfolio = () => {
                 </div>
               </div>
               <p style={styles.aboutText}>
-                I'm a passionate full-stack developer with expertise in the MERN stack. 
+                I'm a passionate frontend developer with also expertise in the MERN stack. 
                 I love solving complex problems and building scalable web applications. 
                 My journey in competitive programming has sharpened my problem-solving skills, 
                 achieving a 4★ rating on LeetCode and solving 500+ DSA problems.
