@@ -153,7 +153,7 @@ const Portfolio = () => {
     {
       company: 'Frugato Chocolate',
       role: 'MERN Stack Intern',
-      period: 'Sep 2024 – Dec 2024',
+      period: 'Jan 2025  – Mar 2025',
       type: 'Remote',
       highlights: [
         'Crafted feature-rich e-commerce frontend with React.js',
