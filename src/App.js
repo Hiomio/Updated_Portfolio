@@ -75,7 +75,7 @@ const Portfolio = () => {
 
   const projects = [
     {
-      title: 'Echo Basket',
+      title: 'Buy Hive',
       tech: 'ReactJS, ExpressJS, MongoDB, Redux, Axios',
       period: 'Jul 2024 – Aug 2024',
       highlights: [
@@ -84,7 +84,7 @@ const Portfolio = () => {
         'Deployed scalable backend infrastructure with 50% performance optimization'
       ],
       github: 'https://github.com/Hiomio/Ecommerce_Website/tree/master',
-      live : 'https://echo-basket.vercel.app/'
+      live : 'https://buyhub-pi.vercel.app/'
     },
       {
     title: 'Trips Travel',
